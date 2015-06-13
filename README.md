@@ -15,7 +15,7 @@ Android NDK (Native Tool Kit)
 Firstly, you should set up NDK to your eclipse 
 (https://developer.android.com/tools/sdk/ndk/index.html)
 
-Secondly, you should set up OpenCV TO your eclipse (http://docs.opencv.org/doc/tutorials/introduction/android_binary_package/O4A_SDK.html)
+Secondly, you should set up OpenCV to your eclipse (http://docs.opencv.org/doc/tutorials/introduction/android_binary_package/O4A_SDK.html)
 
 Third one, you should dowloand this code and build it
 
