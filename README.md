@@ -1,4 +1,4 @@
-# Product-Shape-Control-Image-processing
+# Product Shape Control - Image processing
 
 The aim of the Project is that control the shape of products and determine whether the shape of the products are damaged or not.
 If they are damaged, a message will be displayed on a screen to notify that the product is corrupted. 
